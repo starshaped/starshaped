@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Aubrey**, she/her, working as a front-end developer in the Boston area. 
+I'm **Aubrey**, she/her, working as a front-end developer in the Boston area. I'm still trying to figure out what I want to write in this space, so stay tuned for more!
 
 <!--
 **starshaped/starshaped** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
