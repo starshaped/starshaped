@@ -4,9 +4,8 @@ I'm **Aubrey**, she/her, working as a front-end developer in western Massachuset
 
 ### Find me elsewhere!
 
-Blog: https://star-shaped.org
-
-Twitter: https://twitter.com/starshaped
+* Blog: https://star-shaped.org
+* Twitter: https://twitter.com/starshaped
 
 <!--
 **starshaped/starshaped** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
