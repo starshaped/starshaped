@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I'm **Aubrey**, she/her, working as a front-end developer in western Massachusetts. I'm still trying to figure out what I want to write in this space, so stay tuned for more!
+I'm **Aubrey**, she/her, working as a front-end developer in western Massachusetts. I love knitting, tea, and fountain pens, and I'm not a huge fan of pasta, cheese, and balloons. 
+
+Find me elsewhere!
+
+Blog: https://star-shaped.org
+Twitter: https://twitter.com/starshaped
 
 <!--
 **starshaped/starshaped** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
