@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Aubrey**, she/her, working as a front-end developer in western Massachusetts. I love knitting, tea, and fountain pens, and I'm not a huge fan of pasta, cheese, and balloons. 
+I'm **Aubrey**, she/her, working as a front-end developer on Pocumtuc land in Northampton, Massachusetts. I love knitting, tea, and fountain pens, and I'm not a huge fan of pasta, cheese, and balloons. 
 
 ### Find me elsewhere!
 
