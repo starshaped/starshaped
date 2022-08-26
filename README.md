@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Aubrey**, pronouns she/her, living on Pocumtuc land in Northampton, Massachusetts. I work at Lullabot as a front-end developer and I love geeking out over CSS and accessibility best practices. I love knitting, tea, and fountain pens, and I'm not a huge fan of pasta, cheese, and balloons. 
+I'm **Aubrey**, pronouns she/her, living on Pocumtuc land in Northampton, Massachusetts. I work at Lullabot as a front-end developer and I enjoy geeking out over CSS and accessibility best practices. I love knitting, tea, and fountain pens, and I'm not a huge fan of pasta, cheese, and balloons. 
 
 ### Find me elsewhere!
 
