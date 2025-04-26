@@ -4,7 +4,7 @@ I'm **Aubrey**, she/her, and I enjoy geeking out over CSS and accessibility best
 
 ### Find me elsewhere!
 
-* Blog: https://star-shaped.org
+* Blog: https://aubreysambor.com
 * Mastodon: https://labyrinth.social/@starshaped
 
 <!--
